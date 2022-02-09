@@ -1,0 +1,7 @@
+{
+  "name": "Mi-Primera-App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
